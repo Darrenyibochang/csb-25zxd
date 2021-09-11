@@ -1,0 +1,19 @@
+logo: https://www.emergingyoungartists.org/static/45f5d2b816240b43b0331ad83ac1a5cb/71b1f/logo-home.webp
+hero : https://www.emergingyoungartists.org/static/3c6ff25e2c042a078b0ea186e071ddfe/a1371/hero.webp
+
+showcase
+1.https://www.emergingyoungartists.org/static/3-91d653a2636a873f677b055fbadfe460.jpg
+2. https://www.emergingyoungartists.org/static/12-90620c8821e194934568f5645d13e948.jpg
+3. https://www.emergingyoungartists.org/static/6-89f002a83bea00672b899a0a8b71a36a.jpg
+4. https://www.emergingyoungartists.org/static/3-28668ce149d726453ba982cf83b2943d.jpg
+
+second hero:
+https://www.emergingyoungartists.org/static/a9cfeb5fffe6ab808ce416f4450f7ed9/cf27d/second-hero.webp
+
+artists
+1.https://www.emergingyoungartists.org/static/97146d71f81cb3cb2f191008ae30a519/a9501/artists-alex-leggett-profile.jpg
+2. https://www.emergingyoungartists.org/static/a8a3c2dda4da8801857d15fc35f3bdfb/775d9/artists-amanie-illfated-profile.jpg
+3. https://www.emergingyoungartists.org/static/9205bf8b302281f28866a5a34a4c7d97/883ab/artists-amely-zhou-profile.jpg
+4. https://www.emergingyoungartists.org/static/27168c4c9862796f15aa88aa38a43a88/c04cf/artists-beatsync-profile.jpg
+5. https://www.emergingyoungartists.org/static/d2310874c3df76ec2356b6c3147ee571/426ce/artists-qiaoer-jin-profile.jpg
+6. https://www.emergingyoungartists.org/static/7ff4422548578214b37943920c88313a/426ce/artists-river-guard-profile.jpg
